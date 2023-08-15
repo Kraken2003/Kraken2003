@@ -4,7 +4,6 @@
 - 🌱 I’m currently researching and exploring new interesting projects to work upon</br>
 - 📖 Studying and learning more about cloud technology and advanced DSA </br>
 - 🤔 I’m looking for making a developer team to deploy ML projects in real time </br>
-- 📫 How to reach me -> <b>chohanprithvisingh@gmail.com</b>
 
 ---
 <h3 align="left">Connect with me:</h3>
