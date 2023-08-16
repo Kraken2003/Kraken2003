@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prithvi</h1>
-<h3 align="center">Machine Learning and Data Science enthusiast on the internet</h3></br>
+<h3 align="center">Machine Learning and Data Science enthusiast </h3></br>
 - 🔭 Building AI solutions to solve complex problems</br>
 - 🌱 I’m currently researching and exploring new interesting projects to work upon</br>
 - 📖 Studying and learning more about cloud technology and advanced DSA </br>
