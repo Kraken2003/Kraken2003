@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prithvi</h1>
 <h3 align="center">Machine Learning and Data Science enthusiast </h3></br>
 - 🔭 Building AI solutions to solve complex problems</br>
-- 🌱 I’m currently researching and exploring new interesting projects to work upon</br>
-- 📖 Studying and learning more about cloud technology and advanced DSA </br>
+- 🌱 I’m currently researching on low level computer vision image enhancement technology using deep learning and fuzzy logic </br>
+- 📖 Studying and learning more about cloud technology and fullstack development </br>
 - 🤔 I’m looking for making a developer team to deploy ML projects in real time </br>
 
 ---
