@@ -88,32 +88,6 @@ class Prithvi:
 
 </div>
 
-
----
-
-## `> CURRENT_MISSIONS.STATUS()`
-
-```javascript
-const missions = {
-    syntx: {
-        status: "🟢 ACTIVE",
-        description: "AI coding assistant that thinks like a senior engineer",
-        milestone: "1 Million Developers onboarded with SyntX"
-    },
-    research: {
-        status: "🔬 IN_PROGRESS",
-        description: "Agent builder & marketplace for SyntX",
-        tech: ["Scalable Architecture", "LLM Connectors", "Model Context Protocol"],
-        goal: "Fully collaborative and customizable coding assistant"
-    },
-    team: {
-        status: "🔍 RECRUITING",
-        description: "Building an elite AI engineering squad",
-        looking_for: ["Cracked Engineers", "UI/UX Visionaries", "ML Researchers"]
-    }
-};
-```
-
 ---
 
 ## `> GITHUB_STATS.ANALYZE()`
@@ -123,30 +97,6 @@ const missions = {
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kraken2003&theme=highcontrast&hide_border=true&border_radius=5&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)](https://git.io/streak-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kraken2003&layout=compact&theme=radical&hide_border=true&title_color=FF6B35&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-## `> CONNECT.ESTABLISH()`
-
-<div align="center">
-
-  ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║       Ready to revolutionize how we build software?           ║
-║     Let's architect the future of AI-powered development.     ║
-║                                                               ║
-║       📧  Connect via LinkedIn                                ║
-║       🌐  Check out orangecat.ai & syntx.dev                  ║
-║       🚀  Join 5000+ developers using SyntX                   ║
-║                                                               ║
-║     "Code faster. Debug smoother. Thank the cat later." 🐱    ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-
-  ```
 
 </div>
 
