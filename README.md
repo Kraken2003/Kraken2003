@@ -10,12 +10,12 @@
 ║   ██║     ██║  ██║██║   ██║   ██║  ██║ ╚████╔╝ ██║                            ║
 ║   ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝  ╚═══╝  ╚═╝                            ║
 ║                                                                               ║
-║                    [ FOUNDER @ ORANGECAT TECHNOLOGIES ]                       ║
+║                    [ CO FOUNDER @ ORANGECAT TECHNOLOGIES ]                    ║
 ║                         [ ARCHITECTING THE FUTURE ]                           ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=700&lines=Building+SyntX+%E2%80%94+The+AI+Revolution+in+Coding;Qualcomm+ISV+Partner;Code+Faster.+Debug+Smoother.+Thank+the+Cat+Later." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=700&lines=Qualcomm+ISV+Partner;Code+Faster.+Debug+Smoother.+Thank+the+Cat+Later." alt="Typing SVG" />
 
 </div>
 
@@ -26,35 +26,10 @@
 ### `> SYSTEM.INITIALIZE()`
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvichohan/)
-[![Try SyntX](https://img.shields.io/badge/Try_SyntX-1A1A1A?style=for-the-badge&logoColor=white)](https://syntx.dev)
 [![About Orangecat](https://img.shields.io/badge/About_Orangecat-FF6B35?style=for-the-badge&logoColor=white)](https://orangecat.ai)
 
 
 </div>
-
----
-
-## `> WHO_AM_I.EXECUTE()`
-
-```python
-class Prithvi:
-    def __init__(self):
-        self.role = "Founder & Engineer"
-        self.company = "Orangecat Technologies"
-        self.product = "SyntX - Agentic AI Assistant"
-        self.mission = "Upgrading how developers code, debug, and ship"
-        self.users = "5300+ developers and counting"
-        
-    def current_focus(self):
-        return [
-            "🧠 Deep Learning and fine-tuning Large Language Models",
-            "🚀 Building AI agents that actually understand code",
-            "☁️ Scaling cloud infrastructure for high volume traffic",
-            "🎯 Pushing AI to the edge with on on premise LLM inferencing"
-        ]
-```
-
----
 
 ## `> TECH_STACK.LOAD()`
 
@@ -87,22 +62,6 @@ class Prithvi:
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 </div>
-
----
-
-## `> GITHUB_STATS.ANALYZE()`
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kraken2003&theme=highcontrast&hide_border=true&border_radius=5&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35)](https://git.io/streak-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kraken2003&layout=compact&theme=radical&hide_border=true&title_color=FF6B35&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-<div align="center">
   
 ### `> END_TRANSMISSION`
 
