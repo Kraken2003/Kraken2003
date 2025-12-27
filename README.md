@@ -11,23 +11,17 @@
 ║   ╚═╝     ╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝  ╚═══╝  ╚═╝                            ║
 ║                                                                               ║
 ║                    [ CO FOUNDER @ ORANGECAT TECHNOLOGIES ]                    ║
-║                         [ ARCHITECTING THE FUTURE ]                           ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=700&lines=Qualcomm+ISV+Partner;Code+Faster.+Debug+Smoother.+Thank+the+Cat+Later." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=700&lines=DTU+GRAD;Qualcomm+ISV+Partner;Intel+ISV+Partner;RedBull+Racing+Cheerleader" alt="Typing SVG" />
 
 </div>
 
----
-
 <div align="center">
-  
-### `> SYSTEM.INITIALIZE()`
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvichohan/)
 [![About Orangecat](https://img.shields.io/badge/About_Orangecat-FF6B35?style=for-the-badge&logoColor=white)](https://orangecat.ai)
-
 
 </div>
 
@@ -62,8 +56,6 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 </div>
-  
-### `> END_TRANSMISSION`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&animation=twinkling&color=gradient&customColorList=F4E3C1,E3B889,D47C3F,A94F2C,3F2B1C" width="100%"/>
 
