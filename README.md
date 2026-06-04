@@ -14,8 +14,6 @@
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&random=false&width=700&lines=DTU+GRAD;Qualcomm+ISV+Partner;Intel+ISV+Partner;RedBull+Racing+Cheerleader" alt="Typing SVG" />
-
 </div>
 
 <div align="center">
