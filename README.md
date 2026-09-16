@@ -19,7 +19,8 @@
 <div align="center">
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prithvichohan/)
-[![About Orangecat](https://img.shields.io/badge/About_Orangecat-FF6B35?style=for-the-badge&logoColor=white)](https://orangecat.ai)
+[![More About Me](https://img.shields.io/badge/More_About_Me-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-page-sooty-phi.vercel.app/)
+[![About Orangecat](https://img.shields.io/badge/About_Orangecat-FF6B35?style=for-the-badge)](https://orangecat.ai)
 
 </div>
 
